@@ -6,7 +6,7 @@ Aplicação front-end do projeto djangonext feita com o framework next.js e reac
 ## Como executar o projeto
 Pré-requisitos
 
- - HTML, CSS, TypeScript(JSX)
+ - TypeScript(JSX)
  
  ## clonar repositório
  
