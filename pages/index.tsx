@@ -51,14 +51,7 @@ const Home: NextPage = () => {
         <Button onClick={() => setProfessorSelecionado(null)}>Cancelar</Button>
         <Button onClick={() => marcarAula()}>Marcar</Button>
        </DialogActions>
-      </Dialog>
-
-      <Snackbar
-       message={mensagem}
-       open={mensagem?.length > 0}
-       autoHideDuration={2500}
-       onClose={() => setMensagem('')}
-       />
+      </Dialog>       
       </div>
   )
 }

@@ -27,12 +27,12 @@ export function useIndex(){
             email,
           }).then(() => {
             setProfessorSelecionado(null);
-            setMensagem('Cadastrado com sucesso')
+            alert('Cadastrado com sucesso')
           }).catch((error) => {
-            setMensagem(error.response?.data.message);
+            alert(error.response?.data.message);
           })
        } else {
-        setMensagem('Preencha os dados corretamente')
+        alert('Preencha os dados corretamente')
        }
       }
    }
