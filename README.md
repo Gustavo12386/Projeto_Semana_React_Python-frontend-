@@ -1,4 +1,4 @@
-# Repositorio_djangonext(frontend)
+# Projeto_Semana_React_Python(frontend)
 
 ## Sobre
 Aplicação front-end do projeto Semana React Python feita com o framework React/Next.js.
