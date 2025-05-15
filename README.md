@@ -1,7 +1,7 @@
 # Repositorio_djangonext(frontend)
 
 ## Sobre
-Aplicação front-end do projeto djangonext feita com o framework next.js e react.
+Aplicação front-end do projeto Semana React Python feita com o framework React/Next.js.
 
 ## Como executar o projeto
 Pré-requisitos
